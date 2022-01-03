@@ -5,7 +5,6 @@ description = "crim intervals package"
 authors = ["Richard Freedman <rfreedma@haverford.edu>"]
 license = "creative commons"
 packages = [
-    { include = "intervals" },
 ]
 
 [tool.poetry.dependencies]
